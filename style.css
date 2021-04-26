@@ -2,3 +2,17 @@ footer{
     text-align: center;
     margin-top: 50px;
 }
+
+#login p{
+    margin-bottom: 25px;
+    text-align: center;
+    color: #131d97;
+}
+
+#log {
+    padding: 6px 8px;
+    width: 70%;
+    border-collapse: collapse;
+    border-radius: 3px;
+    border: none;
+}
